@@ -1,5 +1,5 @@
 # Coded by TheSpaceCowboy
-# Github: https://www.github.com/TheSpaceCowboy
+# Github: https://www.github.com/TheSpaceCowboy42534
 # Date: 29/12/17
 def findOdd(num :int):
     numbers = [1] # Stores the numbers and starts from 1
